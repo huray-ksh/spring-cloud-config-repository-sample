@@ -1,5 +1,5 @@
 hyuuny:
-  profile: I'm hyuuny!
+  profile: "{cipher}9485602242a2e18fe422c61f51acf03ce5c5a94b4b8e635aedc4df474c65aa8a"
   comment: "{cipher}ea7b558ef42fafadda95d7f4c50bc251b68bd6bc6c8a86a54641e83578543db8cd33013a7d45a09cf267f6669e9d2afed5e75ba281f6a6cd572a9a99c30d44d8"
 #  comment: 안녕하세요 :) 암호화된 DEV입니다.
   # 푸시 후 curl -X POST "http://localhost:(app port number)/actuator/refresh" 해주어야 함.
