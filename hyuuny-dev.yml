@@ -1,4 +1,4 @@
 hyuuny:
   profile: I'm hyuuny!
-  comment: 안녕하세요 :) 이곳은 DEV입니다!!
+  comment: 안녕하세요 :) 여기는 수정된 DEV입니다.
   # 푸시 후 curl -X POST "http://localhost:(app port number)/actuator/refresh" 해주어야 함.
